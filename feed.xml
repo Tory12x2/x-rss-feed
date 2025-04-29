@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>X RSS Feed Example</title>
+    <link>https://twitter.com/example</link>
+    <description>Latest posts from X user</description>
+    <item>
+      <title>ポストのタイトル</title>
+      <link>https://twitter.com/example/status/123456789</link>
+      <description>ポストの内容</description>
+      <pubDate>Mon, 29 Apr 2025 12:00:00 +0900</pubDate>
+    </item>
+    <!-- 他のポストも追加可能 -->
+  </channel>
+</rss>
